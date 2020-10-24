@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Marshall-Seven/Marshall-Seven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+🎈 Hello, my name is Alan.
 
-Here are some ideas to get you started:
+- 🏴󠁩󠁮󠁢󠁲󠁿 Located in Brazil
+- ⌨️ Developer
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Learning:`<br><br>
+![Python](https://img.shields.io/badge/python-black?&style=for-the-badge&logo=python&logoColor=python)
+![JavaScript](https://img.shields.io/badge/javascript-black?&style=for-the-badge&logo=javascript&logoColor=yellow)
+![Html](https://img.shields.io/badge/html-orange?&style=for-the-badge&logo=html&logoColor=html)
+![Css](https://img.shields.io/badge/css-blue?&style=for-the-badge&logo=css&logoColor=css)
