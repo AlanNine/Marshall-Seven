@@ -2,7 +2,7 @@
 
 <p align="center">
   <a>
-<img src="https://media.discordapp.net/attachments/732298693658542141/736232295467450368/fweak3.gif" alt="Avatar" style="border-radius: 75%;">
+<img src="https://media.discordapp.net/attachments/748969431669145712/769711974690193418/a_c606d3e6ac9f1eb25013e3ddef8e8051.gif" alt="Avatar" style="border-radius: 75%;">
   </a><br>
 </p>
   
