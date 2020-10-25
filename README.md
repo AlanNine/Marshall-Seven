@@ -27,6 +27,12 @@
 
 ### 💻 Currently studying
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<br>
+
+### 👀 I'm interested
+![Go](https://img.shields.io/badge/-Go-69d7e2?style=flat-square&logo=go&logoColor=white)
+
+---
 
 **I like:**
 
@@ -35,6 +41,7 @@
 - <strong>Music</strong>
 - <strong>And some others private things</strong>
 
+---
 
 <a href="https://github.com/Marshall-Seven">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Marshall-Seven&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Hideaki's stats" />
