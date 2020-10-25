@@ -23,7 +23,8 @@
 **I like:**
 
 - <strong>Development</strong>
-- <strong>Reverse Engineering</strong>
+- <strong>Games</strong>
+- <strong>Music</strong>
 - <strong>And some others private things</strong>
 
 
