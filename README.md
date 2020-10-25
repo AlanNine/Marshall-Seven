@@ -11,6 +11,7 @@
 - 🏴󠁩󠁮󠁢󠁲󠁿 Located in Brazil
 - ⌨️ Developer
 ```
+---
 
 ### 💼 I use as languages:
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
@@ -19,16 +20,19 @@
 ![Css](https://camo.githubusercontent.com/9efb1ebd5220b66c34f45fc1c20e85c06f0fd241/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3534394644453f7374796c653d666c61742d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
 <br>
 
+---
 ### 💼 My environments
 ![Sublime](https://img.shields.io/badge/-Sublime-orange?style=flat-square&logo=sublime-text&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 ![Discord](https://img.shields.io/badge/-Discord-blue?style=flat-square&logo=discord&logoColor=white)
 <br>
 
+---
 ### 💻 Currently studying
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <br>
 
+---
 ### 👀 I'm interested
 ![Go](https://img.shields.io/badge/-Go-69d7e2?style=flat-square&logo=go&logoColor=white)
 
@@ -50,13 +54,6 @@
 <a href="https://github.com/Marshall-Seven?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marshall-Seven&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
-<br>
-<br>
-<h3 align="center"> 
-Visitors<br>
-<img src="https://hgithub.glitch.me/count.svg" />
-</h3>
-<br>
 <br>
 
 <p align="center">
