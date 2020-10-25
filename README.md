@@ -20,7 +20,7 @@
 <br>
 
 ### 💼 My environments
-![Sublime](https://img.shields.io/badge/-Sublime-0085D1?style=flat-square&logo=sublime-text&logoColor=white)
+![Sublime](https://img.shields.io/badge/-Sublime-orange?style=flat-square&logo=sublime-text&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 
 **I like:**
