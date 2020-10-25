@@ -26,7 +26,7 @@
 <br>
 
 ### 💻 Currently studying
-![Mysql](https://img.shields.io/badge/-Mysql-004bff?style=flat-square&logo=mysql-text&logoColor=white)
+![Mysql](https://img.shields.io/badge/mysql-004bff?style=flat-square&logo=mysql-text&logoColor=white)
 
 **I like:**
 
